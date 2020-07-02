@@ -1,0 +1,25 @@
+USA,Washington DC,North America,5904.78,50,2.9
+Australia,Canberra,Australia,4687.98,25,1.8
+Canada,Ottawa,North America,4687.98,25,1.8
+Austria,Vienna,Europe,2787.48,25,1.1
+Algeria,Algiers,Africa,3678.09,18,0.3
+Botswana,Gaborone,Africa,2988.67,11,0.4
+Burundi,Gitega,Africa,1678.49,11,0.9
+Congo,Kinshasa,Africa,1078.59,9,0.2
+Senegal,Dakar,Africa,1978.89,9,0.8
+Sierra Leone,Freetown,Africa,1178.34,3,0.1
+Ghana,Accra,Africa,1278.09,8,0.1
+Zambia,Lusaka,Africa,1276.09,8,0.4
+Liberia,Monrovia,Africa,1268.09,9,0.5
+Belarus,Minsk,Europe,1268.69,4,0.8
+Denmark,Copenhagen,Europe,2368.11,12,0.7
+France,Paris,Europe,1898.09,18,1.1
+Cyprus,Nicosia,Europe,1118.09,6,0.2
+Monaco,Monaco,Europe,1290.09,2,0.2
+Netherlands,Amsterdam,Europe,1268.09,9,0.3
+India,Delhi,Asia,4568.12,200,2.1
+Isreal,Jerusalem,Asia,1268.09,9,1.5
+Japan,Tokyo,Asia,1268.09,10,2.1
+Kuwait,Kuwait City,Asia,1268.09,9,1.5
+Jordan,Amman,Asia,1664.09,4,0.5
+Russia,Mascow,Asia,1268.09,18,1.4
